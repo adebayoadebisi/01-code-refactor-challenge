@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Made changes to ensure the CSS selectors and properties are consolidated and organized to follow a semantic structure. */
+/* Also using semantic structure, I ensured repetitive CSS properties were grouped under the same CSS selectors. */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
