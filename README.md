@@ -14,13 +14,21 @@ Changes made in accordance to the acceptance criteria.
 - Inserted a concise descriptive title into Title elements. Changed ‘website’ to ‘Horiseon Marketing Agency’.
 
 ## Horiseon Website
-Screenshot
+The following images shows the Horiseon web application's appearance and functionality:
+
+![Navigation Bar and Hero Image](assets/images/Screenshot-navigation-bar-and-header.png)
+
+> **Note** This is a screenshot of the Horiseon webpage's navigation bar and header image.
+
+![Main Content](assets/images/Screenshot-main-content.png)
+
+> **Note** This is a screenshot of the Horiseon webpage's main content showing cards with text and images at the bottom of the page.
 
 ## License
 Licensed under the MIT License
 
-## GitHub
-URL: 
+## GitHub Repository
+URL: https://github.com/adebayoadebisi/01-code-refactor-challenge  
 
 ## Deployed Web Application
-URL:
+URL: https://adebayoadebisi.github.io/01-code-refactor-challenge/ 
